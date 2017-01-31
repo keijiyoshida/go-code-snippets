@@ -1,2 +1,1 @@
-# go-code-snippets
-Go Code Snippets
+# Go Code Snippets
